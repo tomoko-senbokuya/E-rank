@@ -1,6 +1,6 @@
 <?php
- $input = "Bootstrap". PHP_EOL;
- $int =  2 ;
+//  $input = "Bootstrap". PHP_EOL;
+//  $int =  2 ;
  
  // Botstrap  と出力しなさい
  
