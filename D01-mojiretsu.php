@@ -7,3 +7,8 @@
  $input = "water". PHP_EOL;
  $int = 5;
 // wate  上記と同じコードでwate と出力できるように
+$str = str_split($input);
+unset($str[$int]);
+$res = rtrim( implode($str) );
+
+echo $res;
