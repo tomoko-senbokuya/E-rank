@@ -26,7 +26,7 @@
 $str = '50 60';
 $int = 50;
 if($int==50)
-echo 'TEST Commit';
+echo 'TEST Commit 2';
 
 $str = '50 60';
 $int = 30;
