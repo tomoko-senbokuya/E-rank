@@ -20,6 +20,6 @@
 
 <?php
 $int = 4; 
-
+$mon = ['January','February'];
 
 $int = 9; 
