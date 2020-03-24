@@ -1,3 +1,4 @@
+$int で指定された値番目の文字を除去した文字列にする
 <?php
 //  $input = "Bootstrap". PHP_EOL;
 //  $int =  2 ;
